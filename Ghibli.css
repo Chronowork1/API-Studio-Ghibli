@@ -1,4 +1,4 @@
-#root {
+/*#root {
     max-width: 1200px;
     margin: 0 auto;
   }
@@ -23,4 +23,8 @@
     .card {
       flex: 1 1 calc(33% - 2rem);
     }
+  }*/
+
+  #root{
+    margin: 10px;
   }
